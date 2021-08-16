@@ -1,0 +1,64 @@
+item_id,Name,Diet,Course,Ingredients,Flavour,Cusine,Price
+1,Rice idli,Vegetarian,main course,"ground rice or rice flour mixed with ground urad dal, salt, methi","bland, slightly sour",South indian ,80
+2,Sambar vada,Vegetarian,Starter,"sambar, medhu vada ","spicy, slightly sour",South indian ,85
+3,Rasam,Vegetarian,main course,"Tomato, curry leaves, garlic, mustard seeds","Tangy, sweet and spicy",South indian ,89
+4,Dosa (Butter),Vegetarian,main course,"rice batter, butter, oil","Slightly tangy,  oily ",South indian ,125
+5,Paper Dosa,Vegetarian,main course,"rice batter, rava, oil","Slightly tangy,  oily, crisp",South indian ,140
+6,Mysore masala Dosa,Vegetarian,main course,"rice batter, chilli-garlic paste, potatoes","spicy, crisp, ",South indian ,160
+7,Rawa Dosa,Vegetarian,main course,"rice batter, rava, oil","slightly tangy, crisp",South indian ,140
+8,Onion Rawa Dosa,Vegetarian,main course,"Sliced onions, rice batter,oil","slightly tangy, sweet, slightly sour",South indian ,150
+9,Panner Dosa,Vegetarian,main course,"Grated Paneer, rice batter, oil","milky, slightly tangy, ",South indian ,155
+10,Ghee Dosa,Vegetarian,main course,"rice batter, Ghee","slightly tangy, oily, crisp",South indian ,140
+11,Masala Dosa,Vegetarian,main course,"Rice batter, potatoes","spicy, slightly tangy, ",South indian ,145
+12,Pongal,Vegetarian,main course,"Rice, jaggery, cashews, ghee","slightly hot,  oily,  ",South indian ,80
+13,Onion Uttapam,Vegetarian,main course,"rice batter, onion, tomato, butter","sweet, slightly tangy, oily",South indian ,155
+14,Thayir sadam,Vegetarian,main course,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds","sour, slightly hot",South indian ,125
+15,Chicken Varuval,Vegetarian,Starter,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon","hot, spicy, meaty",South indian ,75
+16,Sambar ,Vegetarian,main course,"Tomato, curry leaves, garlic, mustard seeds","spicy, slightly hot, ",South indian ,30
+17,Chuttney,Vegetarian,Starter,"Cocount, green chilies, tomatoes, pudina, coriander, salt","spicy, sour, bitter, hot",South indian ,13
+18,Hot & Sour Soup,Vegetarian,Soups,"garlic, ginger, chilli, spring onion, carrot, cabbage, capsicum, beans, soya sauce, chilli sauce, vinegar, pepper powder, sugar, salt","hot, spicy, smooth watery",Chinese,85
+19,Veg. Manchow soup,Vegetarian,Soups,"garlic, ginger, chilli,  onion, carrot, cabbage, capsicum, beans, soya sauce, chilli sauce, vinegar,cornflour, hakka noodles, salt","veggie, slighlty spicy, smooth watery ",Chinese,85
+20,Sweet corn soup,Vegetarian,Soups,"Olive oil, garlic, ginger,  spring onion, carrot,sweet corn,  beans,pepper, vinegar,cornflour, salt","tomato sauce, peper",Chinese,85
+21,Veg. Clear soup,Vegetarian,Soups,"Olive oil, garli, ginger, spring onion, broccoli, mushroom, carrot, veg stock, lettuce, salt, pepper, lemon juice","slightlu sour, slightly hot, veggie, smooth watery",Chinese,85
+22,chicken soup,Non – vegetarian,Soups,"oil, chicken, onion, cabbage, capsicum, carrot, beans, ginger, garlic, vinegar, pepper powder","slighlty hot, meaty, smooth watery",Chinese,100
+23,chicken manchow soup,Non – vegetarian,Soups,"oil, chicken, ginger, garlic, green chilli,spring onion, carrot, capsicum, soya sauce, cornflour, salt, noodles, pepper powder","slightly hot, meaty, smooth watery",Chinese,110
+24,Spring rolls,Vegetarian,Starter,"maida, cornflour, salt, oil, garlic, chilli, onion, spring onion, carrot, cabbage, beans, capsicum, vinegar, soya sauce, chilli sauce, pepper powder, salt","Slighlty hot, veggie",Chinese,120
+25,"veg, manchurian dry",Non - vegetarian,Starter,"carrot, cabbage, capsicum, sprig onions, pepper powder, maida, cornflour, salt, oil, ginger, garlic, tomato sauce, chili sauce, vinegar","slightly hot, slightly bitter, veggie",Chinese,140
+26,chilli paneer dry,Non - vegetarian,Starter,"cornflour, maida, ginger garlic paste, pepper powder, salt, paneer, oil, garlic, spring onion, onion, capsicum, chilli sauce, tomato sauce, vinegar, soya sauce, red chilli powder, salt","slightly hot, slightly bitter",Chinese,160
+27,panner shashik,Vegetarian,Starter,"Paneer, capsicum, onion, tomato, coriander leaves, anardana powder, lemon juice, oil, pepper powder, cumin, garam masala, chaat masala, ginger, garlic, cornflour, onion, cabbage","slightly bitter, slightly hot",Chinese,175
+28,chilli mushroom dry,Vegetarian,Starter,"maida, cornflour, chilli powder, pepper, ginger garlic paste, salt,mushroom, oil, garlic, ginger, spring onion, onion, capsicum, tomato sauce, chilli sauce, vinegar, soya sauce, pepper, sugar","slightly hot, slightly spicy ",Chinese,155
+29,stuffed mushroom,Vegetarian,Starter,"mushroom, onion, chopped garlic, oil, pepper, dried basil, oregano, salt, cheese, spring onions","slightly bitter, slightly hot",Chinese,175
+30,Ginger veggie stir fry,Vegetarian,Starter,"cornflour, garlic, ginger, oil, broccoli, peas, carrot, beans, soya sauce, onion, salt","veggie, slighlty hot",Chinese,135
+31,veg. Chopseuy,Vegetarian,main course,"salt, oil, noodles, cornflour, garlic, spring onion, carrot, cabbage, onion, capsicum, tomato sauce, vinegar, soya sauce, schezwan sauce, pepper, sugar","hot, crispy, slightly spicy",Chinese,140
+32,Gobi machurian gravy,Vegetarian,main course,"maida, cornflour, ginger garlic paste, chilli powder, salt, soya sauce, cauliflower, garlic, spring onion, chilli sauce, tomato sauce, pepper, vinegar  ","hot, slightly bitter",Chinese,125
+33,chilli potatoes,Vegetarian,main course,"Potato, turmeric, chilli powder, salt, maida, cornflour, oil, garlic, ginger, spring onion, onion, capsicum, tomato sauce, vinegar, soya sauce, chill powder, pepper powder",spicy,Chinese,125
+34,veg hakka noodles,Vegetarian,main course,"oil, salt, noodles, garlic, chill, ginger, spring onion, onion, capsicum , cabbage, carrot, beans, chilli sauce, soya sauce, tomato sauce, pepper powder",bitter,Chinese,111
+35,shanghai stewed noodles,Vegetarian,main course,"noodles, vegetable stock, oil, onion, garlic, spring onion, mushroom, carrot, capsicum, pepper, cabbage, cornflour, chilli oil",spicy,Chinese,185
+36,pan fried noodles,Vegetarian,main course,"egg noodles, mushroom,  vegetable oil, garlic, cornflour, spring onion, broccoli, capsicum, vegetabel broth, soya sauce ",spicy,Chinese,170
+37,veg. Fried rice ,Vegetarian,main course,"basmatic rice, oil, salt, garlic, onion, spring onion, carrot, cabbage, peas, beans, capsicum, soya sauce, vinegar, pepper",spicy,Chinese,121
+38,chicken fried rice,Non – vegetarian,main course,"Chicken, salt, oil, egg, onion, garlic, ginger, carrot, peas, basmatic rice, soya sauce, chilli sauce, vinegar, pepper",spicy,Chinese,151
+39,chilli garlic rice,Vegetarian,main course,"basmatic rice, oil, chilli, garlic, spring onion, carrot, cabbage, capsicum, beans, chilli garlic sauce, salt",spicy,Chinese,121
+40,Shahi paneer,Vegetarian,main course,"Cottage cheese, malai, garam masala, ginger, tomato","slightly sweet, slighlty spicy, creamy",North Indian,185
+41,Aloo gobi,Vegetarian,Starter,"Cauliflower, potato, garam masala, turmeric, curry leaves","spicy, slightly hot",North Indian,155
+42,Tandoori Fish Tikka,Non – vegetarian,Starter,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper","spicy, slightly hot",North Indian,140
+43,Mushroom matar,Vegetarian,Starter," coconut milk, frozen green peas, mushrooms, garam masala, tomatoes","spicy, slightly tangy, creamy",North Indian,150
+44,Mushroom do pyaza,Vegetarian,Starter,"Mushroom, malai, garam masala, ginger, capsicum","spicy, slighlty hot",North Indian,165
+45,Malai kofta,Vegetarian,main course,"paneer, potatoes, cashew nuts, rasins, cornflour,  garam masala, tomatoes","slightly sweet, slighlty spicy, creamy",North Indian,205
+46,Kadai paneer,Vegetarian,main course,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts","Slightly spicy, slighlty hot",North Indian,180
+47,gobi masala ,Vegetarian,main course,"Cauliflower, potato, garam masala, turmeric, red chilli, cream , curd,  curry leaves","spicy, hot",North Indian,165
+48,panner tikka masala,Vegetarian,main course,"Paneer, greek yogurt, tandoori masala, cream, bell pepper","Slighlty spicy, hot",North Indian,185
+49,Palak paneer,Vegetarian,main course,"Cottage cheese, palak, cream, garam masala, butter","Slighlty bitter, creamy",North Indian,185
+50,paneer butter masala,Vegetarian,main course,"Paneer, whipping cream, garam masala, cashew nuts, butter","slightly bitter, creamy, slightly sweet",North Indian,185
+51,tandoori roti,Non – vegetarian,main course,"wheat flour, sugar, baking powder, baking soda, salt, curd","nutty, slightly hot",North Indian,30
+52,butter roti,Non – vegetarian,main course,"wheat flour, butter, salt","Nutty, slightlybitter",North Indian,30
+53,plain naan,Vegetarian,main course,"wheat flour, garlic, plain curd, baking soda, baking powder","nutty, soft",North Indian,40
+54,butter naan,Non – vegetarian,main course,"maida, plain curd, milk, oil, sugar, salt, garlic, baking powder, baking soda","slightly sweet, slightly bitter",North Indian,60
+55,roomali roti,Vegetarian,main course,"maida, wheat flour, salt, oil, milk","Slightly sweet, milky",North Indian,18
+56,Pork Bharta,Non – vegetarian,main course,"Boiled pork, onions, chillies, ginger and garlic","Slightly spicy, slighlty hot",North Indian,50
+57,Butter chicken,Non – vegetarian,main course,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter","sliglty sweet, slightly bitter, creamy",North Indian,40
+58,steamed rice,Vegetarian,main course,Rice,bland,North Indian,90
+59,soya dum briyani,Vegetarian,main course,"basmatic rice, soya chunks, biriyani masala, fried onions, coriander leaves, mint, oil, jeera,carrot, potato, capsicum, onion,  ghee,ginger garlic paste, turmeric, green chilli, curd, lemon juice, red chilli powder, green cardomom powder, bay leaf, cinnamon , cloves, ansie, mace","spicy, veggie",North Indian,150
+60,hyderabad biriyani ,Non – vegetarian,main course,"basmatic rice, chicken, biriyani masala, fried onion, coriander leaves, mint, oil, ghee, saffron,ginger garlic paste, turmeric, green chilli, curd, lemon juice, red chilli powder, green cardomom powder, bay leaf, cinnamon , cloves, ansie, mace","spicy, meaty",North Indian,140
+61,green salad,Vegetarian,Starter,"onion, green capsicum, salad greens, tomato, onion powder, garlic powder, black pepper, salt, salad dressing","bitter, slightly sour",North Indian,85
+62,Gajar ka halwa,Vegetarian,dessert,"Carrots, milk, sugar, ghee, cashews, raisins",sweet,North Indian,52
+63,Sohan halwa,Vegetarian,dessert,"Cornflour, ghee, dry fruits",sweet,North Indian,48
