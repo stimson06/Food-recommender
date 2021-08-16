@@ -4,6 +4,10 @@ Food recommender helps in automating the personalized recommendation for the cus
 ## Motivation
 To reduce the time for manual sign-in and personalizing the recommendations for the customers in the hotels would help in leveraging up the hotel sales and increasing the Human-Interaction.
 
+## Output
+https://user-images.githubusercontent.com/44506282/129575893-06d9eb9d-0b5f-4ea7-a684-e3a7acc5a7cb.mp4
+
+
 ## Datasets
 _**menu.csv**_ - Dishes in the hotel. \
 _**order.csv**_ - Orders given by the customer. \
