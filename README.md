@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/44506282/129575893-06d9eb9d-0b5f-4ea7-
 ## Datasets
 _**menu.csv**_ - Dishes in the hotel. \
 _**order.csv**_ - Orders given by the customer. \
-_**rating.csv**_ - Ratings for the food given by the customer. 
+_**user_ratings.csv**_ - Ratings for the food given by the customer. 
 
 ## Frameworks 
 * OpenCV 
@@ -29,7 +29,7 @@ Dishes and ingretidents are referred from
 + _**order.csv**_ 
   - Manually collected from each user
   
-+ _**rating.csv**_
++ _**user_ratings.csv**_
   - Random generation with numpy and other helping tools
   
  #### Tested on: Ubuntu 20.04 LTS & VScode
